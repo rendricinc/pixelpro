@@ -1,10 +1,3 @@
-
-Okay, entendido! Substituí os exemplos nas tabelas e nos payloads JSON por dados mais alinhados ao contexto brasileiro.
-
----
-
-# Documentação de Webhooks – Pixel Pro
-
 ## 1. Visão Geral
 
 O Pixel Pro pode enviar dados em tempo real sobre leads e eventos para URLs externas configuradas por você (Webhooks). Isso permite integrar o Pixel Pro com outras ferramentas, CRMs, planilhas ou sistemas personalizados.
